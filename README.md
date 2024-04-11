@@ -10,6 +10,6 @@ https://github.com/crayfish-kissable-marrow/crayfish/raw/master/20.json
 https://github.com/snoring-huddling-charred/snoring/raw/master/config.v0.7.json
 ```
 
-Данный репозиторий содержит расшифрованную версию данный конфигов.
+Данный репозиторий содержит расшифрованную версию данных конфигов.
 
 Предназначен сетевым администраторам сервисов-жертв, для способствия обороне.
