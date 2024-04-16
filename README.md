@@ -3,7 +3,7 @@
 ## Актуальная версия: Apr 15 16:16:20 2024 +0300
 
 Организация [ItArmy of Ukraine](https://itarmy.com.ua/?lang=en) проводит DDOS атаки на российские сервисы. Одной из утилит которой они пользуются является [db1000n](https://github.com/Arriven/db1000n).
-Аттакующие машины получают целеуказания из зашифрованый файлов на GitHub:
+Аттакующие машины получают целеуказания из зашифрованыx файлов на GitHub:
 
 ```
 https://raw.githubusercontent.com/db1000n-coordinators/LoadTestConfig/main/config.v0.7.json
